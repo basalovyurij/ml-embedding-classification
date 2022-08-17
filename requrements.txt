@@ -1,0 +1,6 @@
+annoy
+nltk
+pandas
+pymorphy2
+scikit-learn
+sentence_transformers
